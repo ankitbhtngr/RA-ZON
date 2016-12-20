@@ -1,1 +1,8 @@
-D:\RA_June\CCL-test\RabbitMQ\src\main\java\org\RabbitMQ\App.java
+D:\EnviormentSetup\RemoteAccessWorkspace\microservices-poc\message-queue\src\main\java\com\siemens\bt\ra\mq\simple\SimpleMessageSender.java
+D:\EnviormentSetup\RemoteAccessWorkspace\microservices-poc\message-queue\src\main\java\com\siemens\bt\ra\mq\api\MessageProducer.java
+D:\EnviormentSetup\RemoteAccessWorkspace\microservices-poc\message-queue\src\main\java\com\siemens\bt\ra\mq\common\ChannelCreator.java
+D:\EnviormentSetup\RemoteAccessWorkspace\microservices-poc\message-queue\src\main\java\com\siemens\bt\ra\mq\topic\TopicPublisher.java
+D:\EnviormentSetup\RemoteAccessWorkspace\microservices-poc\message-queue\src\main\java\com\siemens\bt\ra\mq\simple\SimpleMessageReceiver.java
+D:\EnviormentSetup\RemoteAccessWorkspace\microservices-poc\message-queue\src\main\java\com\siemens\bt\ra\mq\worker\RabbitMessageProducer.java
+D:\EnviormentSetup\RemoteAccessWorkspace\microservices-poc\message-queue\src\main\java\com\siemens\bt\ra\mq\worker\RabbitMessageConsumer.java
+D:\EnviormentSetup\RemoteAccessWorkspace\microservices-poc\message-queue\src\main\java\com\siemens\bt\ra\mq\api\MessageConsumer.java

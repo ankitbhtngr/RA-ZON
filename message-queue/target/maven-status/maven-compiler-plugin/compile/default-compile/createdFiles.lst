@@ -1,1 +1,10 @@
-org\RabbitMQ\App.class
+com\siemens\bt\ra\mq\worker\RabbitMessageProducer.class
+com\siemens\bt\ra\mq\common\ChannelCreator.class
+com\siemens\bt\ra\mq\worker\RabbitMessageConsumer.class
+com\siemens\bt\ra\mq\api\MessageConsumer.class
+com\siemens\bt\ra\mq\simple\SimpleMessageReceiver.class
+com\siemens\bt\ra\mq\worker\RabbitMessageConsumer$1.class
+com\siemens\bt\ra\mq\topic\TopicPublisher.class
+com\siemens\bt\ra\mq\api\MessageProducer.class
+com\siemens\bt\ra\mq\simple\SimpleMessageReceiver$1.class
+com\siemens\bt\ra\mq\simple\SimpleMessageSender.class
